@@ -27,5 +27,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "## Learning Goals",
+  "main": "babel.config.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victor-kiptoo-001/react-hooks-children.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victor-kiptoo-001/react-hooks-children/issues"
+  },
+  "homepage": "https://github.com/victor-kiptoo-001/react-hooks-children#readme"
 }
